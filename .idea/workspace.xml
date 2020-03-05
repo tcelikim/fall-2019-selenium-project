@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41389729-dfd7-4234-9525-d7f38e354477" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fall-2019-selenium-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/Calisma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/EtsyTitleVerify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/FirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/Navigations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/VerifyTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/VerifyURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_Locators/FindElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_Locators/VerifyBookitTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_Locators/VerifyBookitURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/officeHours/SeleniumOH1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/fall-2019-selenium-project.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Navigation/Calisma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Navigation/EtsyTitleVerify.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Navigation/FirstClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Navigation/Navigations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Navigation/Practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Navigation/VerifyTitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_Navigation/VerifyURL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_Locators/FindElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_Locators/VerifyBookitTitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_Locators/VerifyBookitURL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/officeHours/SeleniumOH1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/officeHours/SeleniumOH1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/officeHours/SeleniumOH1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_Locators/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_Locators/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/officeHours/SeleniumOH1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/officeHours/SeleniumOH1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +43,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
   </component>
-  <component name="RunManager" selected="Application.Login">
-    <configuration name="Calisma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.Calisma" />
+  <component name="RunManager" selected="Application.LinkText">
+    <configuration name="FakerPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_Locators2.FakerPractice" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day1_Navigation.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day3_Locators2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day2_Locators.FindElement" />
+    <configuration name="GetAttributeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_Locators2.GetAttributeValue" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day3_Locators2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day2_Locators.Login" />
+    <configuration name="LinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_Locators2.LinkText" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day3_Locators2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyBookitTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day2_Locators.VerifyBookitTitle" />
+    <configuration name="VerifyErrorMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_Locators2.VerifyErrorMessage" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day3_Locators2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyBookitURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day2_Locators.VerifyBookitURL" />
+    <configuration name="VerifyLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_Locators2.VerifyLogin" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day3_Locators2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Login" />
-        <item itemvalue="Application.FindElement" />
-        <item itemvalue="Application.VerifyBookitURL" />
-        <item itemvalue="Application.VerifyBookitTitle" />
-        <item itemvalue="Application.Calisma" />
+        <item itemvalue="Application.LinkText" />
+        <item itemvalue="Application.GetAttributeValue" />
+        <item itemvalue="Application.VerifyErrorMessage" />
+        <item itemvalue="Application.FakerPractice" />
+        <item itemvalue="Application.VerifyLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +145,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1321" height="176" key="GridCell.Tab.0.bottom" timestamp="1583287898403">
+    <state x="412" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583370536718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583287898403" />
-    <state width="1321" height="176" key="GridCell.Tab.0.center" timestamp="1583287898403">
+    <state x="412" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583370536718" />
+    <state width="1365" height="176" key="GridCell.Tab.0.bottom" timestamp="1583376038704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583287898403" />
-    <state width="1321" height="176" key="GridCell.Tab.0.left" timestamp="1583287898403">
+    <state width="1365" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583376038704" />
+    <state width="1365" height="176" key="GridCell.Tab.0.center" timestamp="1583376038703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583287898403" />
-    <state width="1321" height="176" key="GridCell.Tab.0.right" timestamp="1583287898403">
+    <state width="1365" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583376038703" />
+    <state width="1365" height="176" key="GridCell.Tab.0.left" timestamp="1583376038703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583287898403" />
+    <state width="1365" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583376038703" />
+    <state width="1365" height="176" key="GridCell.Tab.0.right" timestamp="1583376038703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1365" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583376038703" />
     <state x="183" y="6" key="SettingsEditor" timestamp="1583080214854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
