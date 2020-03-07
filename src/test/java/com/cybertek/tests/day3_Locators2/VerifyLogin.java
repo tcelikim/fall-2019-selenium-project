@@ -12,8 +12,8 @@ public class VerifyLogin {
         go to login page
         enter username
         enter password
-        click login buttonare done
-        verify the welcome message" Welcome to the Secure Area. When you are done click logout below"
+        click login button are done
+        verify the welcome message" Welcome to the Secure Area. When you are done click logout below."
          */
 
         WebDriverManager.chromedriver().setup();
