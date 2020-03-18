@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41389729-dfd7-4234-9525-d7f38e354477" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review/AmazonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review/StaleElementExample.java" afterDir="false" />
+    <list default="true" id="41389729-dfd7-4234-9525-d7f38e354477" name="Default Changelist" comment="BeforeAndAfterTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_xpath/XpathPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_xpath/XpathPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review/AmazonCssExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review/AmazonCssExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/EbaySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/EbaySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/GetAttributesExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/GetAttributesExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/VytrackShortcut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/VytrackShortcut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/VytrackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_review2/VytrackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_testing_intro/BeforeAndAfterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_testing_intro/BeforeAndAfterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_testing_intro/FirstTestNGTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_testing_intro/FirstTestNGTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,79 +47,103 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Application.AmazonTest">
-    <configuration name="AmazonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day7_review.AmazonTest" />
+  <component name="RunManager" selected="TestNG.BeforeAndAfterTest.test1">
+    <configuration name="BeforeAndAfterTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day7_review.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day9_testing_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_testing_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_testing_intro.BeforeAndAfterTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmazonTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day7_review.AmazonTests" />
+    <configuration name="TestNGAssertionTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day7_review.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day9_testing_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_testing_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_testing_intro.TestNGAssertionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassNameExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day5.ClassNameExample" />
+    <configuration name="TestNGAssertionTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day5.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day9_testing_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_testing_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_testing_intro.TestNGAssertionTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day5.XpathDemo" />
+    <configuration name="TestNGAssertionTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day5.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day9_testing_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_testing_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_testing_intro.TestNGAssertionTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cssExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day6_css.cssExample" />
+    <configuration name="TestNGAssertionTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day6_css.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day9_testing_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day9_testing_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day9_testing_intro.TestNGAssertionTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AmazonTest" />
-        <item itemvalue="Application.AmazonTests" />
-        <item itemvalue="Application.cssExample" />
-        <item itemvalue="Application.XpathDemo" />
-        <item itemvalue="Application.ClassNameExample" />
+        <item itemvalue="TestNG.BeforeAndAfterTest.test1" />
+        <item itemvalue="TestNG.TestNGAssertionTest.test4" />
+        <item itemvalue="TestNG.TestNGAssertionTest.test1" />
+        <item itemvalue="TestNG.TestNGAssertionTest.test2" />
+        <item itemvalue="TestNG.TestNGAssertionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,35 +172,51 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BeforeAndAfterTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="BeforeAndAfterTest" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="412" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583370536718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583370536718" />
-    <state width="680" height="177" key="GridCell.Tab.0.bottom" timestamp="1584209754300">
+    <state x="775" y="110" width="473" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584489455819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="680" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584209754300" />
-    <state width="680" height="177" key="GridCell.Tab.0.center" timestamp="1584209754299">
+    <state x="775" y="110" width="473" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584489455819" />
+    <state x="554" y="0" key="CommitChangelistDialog2" timestamp="1584494250069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="680" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584209754299" />
-    <state width="680" height="177" key="GridCell.Tab.0.left" timestamp="1584209754299">
+    <state x="554" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584494250069" />
+    <state x="844" y="273" width="358" height="202" key="Github.CreateGistDialog" timestamp="1584492815716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="680" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584209754299" />
-    <state width="680" height="177" key="GridCell.Tab.0.right" timestamp="1584209754300">
+    <state x="844" y="273" width="358" height="202" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1584492815716" />
+    <state width="655" height="169" key="GridCell.Tab.0.bottom" timestamp="1584494049808">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="680" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584209754300" />
+    <state width="655" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584494049808" />
+    <state width="655" height="169" key="GridCell.Tab.0.center" timestamp="1584494049808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="655" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584494049808" />
+    <state width="655" height="169" key="GridCell.Tab.0.left" timestamp="1584494049808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="655" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584494049808" />
+    <state width="655" height="169" key="GridCell.Tab.0.right" timestamp="1584494049808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="655" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584494049808" />
     <state x="183" y="6" key="SettingsEditor" timestamp="1583436484480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583436484480" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583966404095">
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584484276843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583966404095" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584484276843" />
     <state x="480" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583877484003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,5 +225,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="82" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583967563343" />
+    <state x="674" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584297564983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="674" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584297564983" />
   </component>
 </project>

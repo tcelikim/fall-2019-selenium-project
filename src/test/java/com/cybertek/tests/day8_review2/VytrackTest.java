@@ -1,4 +1,4 @@
-package com.cybertek.tests.day8_;
+package com.cybertek.tests.day8_review2;
 
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
@@ -31,8 +31,25 @@ right
 
         WebElement profileName = driver.findElement(By.cssSelector("a[href='javascript: void(0);']"));
 
-        Thread.sleep(2000);
+        Thread.sleep(1000);
         profileName.click();
+
+        Thread.sleep(1000);
+        WebElement myConfiguration = driver.findElement(By.cssSelector("ul.dropdown-menu>li>a[href='/config/user/profile']"));
+        myConfiguration.click();
+
+        Thread.sleep(2000);
+        String expected = profileName.getText();
+        String actual = driver.getTitle();
+
+        if (actual.startsWith(expected)) {
+            System.out.println("PASS");
+        } else {
+            System.out.println("FAIL");
+            System.out.println("expected = " + expected);
+            System.out.println("actual = " + actual);
+        }
+        driver.close();
 
     }
 }
