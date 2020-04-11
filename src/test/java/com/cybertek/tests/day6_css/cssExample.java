@@ -58,7 +58,7 @@ public class cssExample {
         //CSS --> locate the following sibling: ==>   E+*
         WebElement siblingBtn_1 = driver.findElement(By.cssSelector("p+*"));
         System.out.println("siblingBtn_1 = " + siblingBtn_1.getText());
-        driver.quit();
+       // driver.quit();
 
 
     }

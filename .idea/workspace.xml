@@ -2,18 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41389729-dfd7-4234-9525-d7f38e354477" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_webelement/CheckboxesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_webelement/DisabledAndDisplayedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_webelement/ListOfElementsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_webelement/OrderOfTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_webelement/RadioButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/ActionsClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/JavaScriptExecuterTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/SelectClassTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_alert_iframes/IframeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_alert_iframes/PopupAndAlertsExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_alert_iframes/TabsAndWindowsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regression_test_runner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoke_test_runner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/base/VytrackPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/base/VytrackTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CreateCalendarEventsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/VehiclesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13_waits_and_synchronization/ExplicitWaitExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13_waits_and_synchronization/ImplicitWaitExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13_waits_and_synchronization/RandomStuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13_waits_and_synchronization/ThreadSleepExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13_waits_and_synchronization/VytrachLoginTestWithWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day14_test_base_props_driver/FileUploadTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day14_test_base_props_driver/PropertiesExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day14_test_base_props_driver/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day14_test_base_props_driver/TestingTestBaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day15_webtables/WebTablesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_page_object_/NegativeLoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_page_object_/PageHeadersTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_page_object_/PositiveLoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day17_ddt_dataprovider_pom2/CreateCalendarEventTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day17_ddt_dataprovider_pom2/MenuOptionsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day17_ddt_dataprovider_pom2/UserInfoDataDrivenTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day17_ddt_dataprovider_pom2/UserInfoDataDrivenTests2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day18_html_report/ExtentReportExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours1/GoogleSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours2/GoogleHoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours2/SelectClassPracticeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours3/DifferentBrowsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours3/EtsyTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours4/ChangeMenuSoftAssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours4/CookiesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours4/IframesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours4/JavaScriptExecutorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours4/SoftAssertionsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/office_hours4/WebTablesPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_runner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_Locators/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_Locators/Amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day6_css/cssExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day6_css/cssExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_Locators/Amazon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_Locators/Amazon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_css/cssExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_css/cssExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +89,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="TestNG.TabsAndWindowsExample.test">
-    <configuration name="IframeExample" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cybertek.tests.day11_select_actions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ExtentReportExample.test">
+    <configuration name="CreateCalendarEventTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day12_pops_alert_iframes.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day17_ddt_dataprovider_pom2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_pops_alert_iframes" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_pops_alert_iframes.IframeExample" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day17_ddt_dataprovider_pom2" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day17_ddt_dataprovider_pom2.CreateCalendarEventTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -68,17 +112,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IframeExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateCalendarEventTests.allDayEventCheckBoxTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day12_pops_alert_iframes.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day17_ddt_dataprovider_pom2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_pops_alert_iframes" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_pops_alert_iframes.IframeExample" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day17_ddt_dataprovider_pom2" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day17_ddt_dataprovider_pom2.CreateCalendarEventTests" />
+      <option name="METHOD_NAME" value="allDayEventCheckBoxTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -86,16 +130,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopupAndAlertsExamples" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateCalendarEventTests.repeatCheckBoxTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day12_pops_alert_iframes.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day17_ddt_dataprovider_pom2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_pops_alert_iframes" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_pops_alert_iframes.PopupAndAlertsExamples" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day17_ddt_dataprovider_pom2" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day17_ddt_dataprovider_pom2.CreateCalendarEventTests" />
+      <option name="METHOD_NAME" value="repeatCheckBoxTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtentReportExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day18_html_report.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day18_html_report" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day18_html_report.ExtentReportExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -103,33 +165,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabsAndWindowsExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReportExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day12_pops_alert_iframes.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day18_html_report.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_pops_alert_iframes" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_pops_alert_iframes.TabsAndWindowsExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TabsAndWindowsExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day12_pops_alert_iframes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_pops_alert_iframes" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_pops_alert_iframes.TabsAndWindowsExample" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day18_html_report" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day18_html_report.ExtentReportExample" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -140,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TabsAndWindowsExample.test" />
-        <item itemvalue="TestNG.TabsAndWindowsExample" />
-        <item itemvalue="TestNG.IframeExample.test" />
-        <item itemvalue="TestNG.IframeExample" />
-        <item itemvalue="TestNG.PopupAndAlertsExamples" />
+        <item itemvalue="TestNG.ExtentReportExample.test" />
+        <item itemvalue="TestNG.ExtentReportExample" />
+        <item itemvalue="TestNG.CreateCalendarEventTests.allDayEventCheckBoxTest" />
+        <item itemvalue="TestNG.CreateCalendarEventTests.repeatCheckBoxTest" />
+        <item itemvalue="TestNG.CreateCalendarEventTests" />
       </list>
     </recent_temporary>
   </component>
@@ -192,12 +237,20 @@
       <option name="project" value="LOCAL" />
       <updated>1584496263622</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day11 - da12">
+      <created>1585175884208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585175884208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BeforeAndAfterTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="BeforeAndAfterTest" />
+    <MESSAGE value="day11 - da12" />
+    <option name="LAST_COMMIT_MESSAGE" value="day11 - da12" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583370536718">
@@ -208,38 +261,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="775" y="110" width="473" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584489455819" />
-    <state x="554" y="0" key="CommitChangelistDialog2" timestamp="1584496262697">
+    <state x="554" y="0" key="CommitChangelistDialog2" timestamp="1585175882785">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="554" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584496262697" />
+    <state x="554" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585175882785" />
     <state x="844" y="273" width="358" height="202" key="Github.CreateGistDialog" timestamp="1584492815716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="844" y="273" width="358" height="202" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1584492815716" />
-    <state width="611" height="164" key="GridCell.Tab.0.bottom" timestamp="1585099020282">
+    <state width="1365" height="158" key="GridCell.Tab.0.bottom" timestamp="1586578692958">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="611" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585099020282" />
-    <state width="611" height="164" key="GridCell.Tab.0.center" timestamp="1585099020282">
+    <state width="1365" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586578692958" />
+    <state width="1365" height="158" key="GridCell.Tab.0.center" timestamp="1586578692957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="611" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585099020282" />
-    <state width="611" height="164" key="GridCell.Tab.0.left" timestamp="1585099020282">
+    <state width="1365" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586578692957" />
+    <state width="1365" height="158" key="GridCell.Tab.0.left" timestamp="1586578692957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="611" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585099020282" />
-    <state width="611" height="164" key="GridCell.Tab.0.right" timestamp="1585099020282">
+    <state width="1365" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586578692957" />
+    <state width="1365" height="158" key="GridCell.Tab.0.right" timestamp="1586578692957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="611" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585099020282" />
+    <state width="1365" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586578692957" />
+    <state x="424" y="26" key="Maven.ArtifactSearchDialog" timestamp="1586570149946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="26" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1586570149946" />
     <state x="183" y="6" key="SettingsEditor" timestamp="1583436484480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583436484480" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584886044820">
+    <state x="548" y="104" key="Vcs.Push.Dialog.v2" timestamp="1585175894103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584886044820" />
+    <state x="548" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585175894103" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586578725373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586578725373" />
     <state x="480" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583877484003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -248,9 +309,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="82" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583967563343" />
-    <state x="674" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584297564983">
+    <state x="674" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586096516809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="674" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584297564983" />
+    <state x="674" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586096516809" />
   </component>
 </project>

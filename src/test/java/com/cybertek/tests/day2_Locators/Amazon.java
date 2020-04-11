@@ -22,7 +22,7 @@ public class Amazon {
         //locators-->ID, name<, classname
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
-        driver.get("amazon.com/");
+        driver.get("http://amazon.com/");
         driver.navigate().to("http://www.ebay.com/");
 
        WebElement searcBox = driver.findElement(By.name("_nkw"));
